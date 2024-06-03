@@ -1,0 +1,21 @@
+I'm developing a midi tokenization scheme. Can you generate a track using this scheme?
+
+#basic song
+```{{tokenSchema}}```
+
+This is just a very basic example. Generate something unique. The chord progression, rhythms, drum patterns, and melodies you generate should fit the style of music requested.
+The melody needs to be rhythmically interesting with notes of different lengths(short and long) as well as rests.
+
+The drums available are:
+	KD=kick
+	SD=snare
+	HH=hiHat
+	RD=ride
+	CY=cymbal
+	LT=lowTom
+	HT=highTom
+	TP=timpani
+
+Send the raw notation with nothing else
+
+Using the schema, generate something to fit what follows:
