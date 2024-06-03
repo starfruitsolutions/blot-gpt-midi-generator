@@ -19,4 +19,4 @@ php -S localhost:8000
 
 # Start Generating
 
-visit 'http://localhost:8000/' in the browser.
+visit http://localhost:8000/ in the browser.
